@@ -1,5 +1,7 @@
 # Prosoul [![Build Status](https://travis-ci.org/Bitergia/prosoul.svg?branch=master)](https://travis-ci.org/Bitergia/prosoul)
 
+<img src="doc/assets/prosoul.png" width="350" align="right">
+
 **Prosoul** is a software quality models manager to create, import/export, view and edit
 models. It has been implemented in the context of the EU funded research project [CROSSMINER](https://www.crossminer.org/).
 
